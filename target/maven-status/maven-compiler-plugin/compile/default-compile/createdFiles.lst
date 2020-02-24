@@ -1,0 +1,4 @@
+com\redhat\gpe\training\AMQPConfiguration.class
+com\redhat\gpe\training\Application.class
+com\redhat\gpe\training\OrderGenerator.class
+META-INF\spring-configuration-metadata.json
